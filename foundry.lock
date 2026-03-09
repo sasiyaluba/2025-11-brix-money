@@ -15,7 +15,7 @@
     "rev": "cbce1e00305e943aa1661d43f41e5ac72c662b07"
   },
   "lib/redstone-oracles-monorepo": {
-    "rev": "0b2f68e63f9896883d86b0c9f184e5c1bd39e4af"
+    "rev": "5aa71229d1a65f648bcda00bedf1d1e050c206a9"
   },
   "lib/solidity-bytes-utils": {
     "rev": "e0115c4d231910df47ce3b60625ce562fe4af985"

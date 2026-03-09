@@ -14,9 +14,6 @@
   "lib/openzeppelin-foundry-upgrades": {
     "rev": "cbce1e00305e943aa1661d43f41e5ac72c662b07"
   },
-  "lib/redstone-oracles-monorepo": {
-    "rev": "b91b741bfb2a1fb94313e78bcedd55d0ac5489e0"
-  },
   "lib/solidity-bytes-utils": {
     "rev": "e0115c4d231910df47ce3b60625ce562fe4af985"
   }
